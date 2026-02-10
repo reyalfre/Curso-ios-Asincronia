@@ -11,7 +11,7 @@ import SwiftUI
 struct Curso_ios_AsincroniaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            VistaSimularCarga()
         }
     }
 }
